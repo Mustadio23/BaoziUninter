@@ -20,8 +20,8 @@ src/main/java/com/baozi/store
 
 | Entidade | Campos |
 |----------|--------|
-| Cliente  | id (Long), nome (String), clienteDesde (LocalDate) |
-| Produto  | id (Long), nome (String), preco (BigDecimal), estoque (Boolean) |
+| Cliente  | id (Long), nome (String), telefone (String), clienteDesde (LocalDate) |
+| Produto  | id (Long), nome (String), descricao (String), preco (BigDecimal), estoque (Boolean) |
 | Pedido   | id (Long), cliente (FK cliente_id), produto (FK produto_id), quantidade (Integer) |
 
 ## Endpoints
