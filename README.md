@@ -2,7 +2,7 @@ Baozi Store – API REST
 
 API REST simples para controle de clientes, produtos e pedidos da Baozi Store (loja de pãozinho chinês).
 
-**Tecnologias:** Java 17, Spring Boot 3.4, Spring Data JPA, Bean Validation, MySQL (ou H2), Postman.
+**Tecnologias:** Java 17 (Eclipse 2026-06), Spring Boot 3.4, Spring Data JPA, Bean Validation, H2, Postman.
 
 ## Estrutura
 
